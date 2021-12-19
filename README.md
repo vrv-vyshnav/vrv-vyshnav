@@ -18,7 +18,6 @@
 
 ## I'm a Student at CAS Nadapuram. 💪 
 
-- 🔭 I’m currently working on a Nivetti
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Volleyball and Cricket
