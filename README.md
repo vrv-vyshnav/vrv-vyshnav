@@ -15,7 +15,9 @@
   <img alt="Vaishnav's Whatsapp" width="22px" src="assets/whatsapp.svg" />
 </a>
 &ensp;
-<a href="mailto:vrv.VaishnavP@gmail.com"><img height="26px" style=for-the-badge&logo=gmail&logoColor=red"/></a>
+<a href="mailto:vrv.VaishnavP@gmail.com"><img height="26px" style=for-the-badge&logo=gmail&logoColor=red"/>
+    
+  </a>
 
 </p>
 
