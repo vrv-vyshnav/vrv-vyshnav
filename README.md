@@ -10,11 +10,11 @@
 <a href="https://linkedin.com/in/vrv-vyshnav">
   <img alt="Vaishnav's Linkdein" width="22px" src="static/icons/linkedin.svg" />
 </a>
-&ensp;
+&ensp; &ensp;
 <a href="https://wa.me/+918129637037">
   <img alt="Vaishnav's Whatsapp" width="22px" src="static/icons/whatsapp.svg" />
 </a>
-&ensp;
+&ensp; &ensp;
 <a href="mailto:vrv.VaishnavP@gmail.com"><img height="26px" src='static/icons/icons8-gmail-logo.svg'/>
     
   </a>
