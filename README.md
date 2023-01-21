@@ -23,7 +23,7 @@
 
 - 🥅 Full stack Web Developer 
 - 🥅 I’m currently learning Backend
-- 🥅 How to reach me <a href="mailto:vrv.VaishnavP@gmail.com">Gmail></a>
+- 🥅 How to reach me <a href="mailto:vrv.VaishnavP@gmail.com">Gmail</a>
 
 ---
 
