@@ -14,26 +14,16 @@
   <img alt="Vaishnav's Whatsapp" width="22px" src="static/icons/whatsapp.svg" />
 </a>
 &ensp; &ensp;
-<a href="mailto:vrv.VaishnavP@gmail.com"><img height="26px" src='static/icons/icons8-gmail-logo.svg'/>
-    
-  </a>
+<a href="mailto:vrv.VaishnavP@gmail.com"><img height="26px" src='static/icons/icons8-gmail-logo.svg'/></a>
 
 [![GitHub vrv-vyshnav](https://img.shields.io/github/followers/vrv-vyshnav?label=follow&style=social)](https://github.com/vrv-vyshnav)
 </p>
-
-<br>
-<br>
-
 
 ### Hi there, I'm Vyshnav 👋
 
 - 🥅 Full stack Web Developer 
 - 🥅 I’m currently learning Backend
-- 🥅 How to reach me <a href="mailto:vrv.VaishnavP@gmail.com"><img height="26px" src='static/icons/icons8-gmail-logo.svg'/></a>
-
-
-
-<br>
+- 🥅 How to reach me <a href="mailto:vrv.VaishnavP@gmail.com">Gmail></a>
 
 ---
 
