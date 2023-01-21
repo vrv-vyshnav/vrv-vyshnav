@@ -1,16 +1,16 @@
 ### Hi there, I'm  Vyshnav 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrv-vyshnav&label=Views&color=blue&style=plastic" alt="rawho" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrv-vyshnav&label=Views&color=blue&style=plastic" alt="Vyshnav vishnu" /> </p>
 
-<!-- 
-<a href="https://github.com/vrv-vyshnav">
+
+<!-- <a href="https://github.com/vrv-vyshnav">
   <img align="left" alt="vyshnav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> -->
+</a>  -->
 <a href="https://wa.me/+918129637037">
-  <img align="left" alt="Rahul's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="Vaishnav's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a href="https://instagram.com/vyshnav___vishnu">
-  <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Vaishnav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br>
