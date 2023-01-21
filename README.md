@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrv-vyshnav&label=Views&color=blue&style=plastic" alt="Vyshnav vishnu" /> </p>
 
-
+<h1 align='center'>
+  Vaishnav P
+ </h1>
 <!-- <a href="https://github.com/vrv-vyshnav">
   <img align="left" alt="vyshnav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>  -->
