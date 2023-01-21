@@ -5,15 +5,19 @@
 <h1 align='center'>
   Vaishnav P
  </h1>
-<!-- <a href="https://github.com/vrv-vyshnav">
-  <img align="left" alt="vyshnav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>  -->
+<p align="center">
+
+<a href="https://linkedin.com/in/vrv-vyshnav">
+  <img alt="Vaishnav's Linkdein" width="22px" src="assets/linkedin.svg" />
+</a>
+&ensp;
 <a href="https://wa.me/+918129637037">
-  <img align="left" alt="Vaishnav's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img alt="Vaishnav's Whatsapp" width="22px" src="assets/whatsapp.svg" />
 </a>
-<a href="https://instagram.com/vyshnav___vishnu">
-  <img align="left" alt="Vaishnav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+&ensp;
+<a href="mailto:vrv.VaishnavP@gmail.com"><img height="26px" src="https://img.shields.io/badge/rahulmanoj@cet.ac.in-37367a?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+
+</p>
 
 <br>
 <br>
