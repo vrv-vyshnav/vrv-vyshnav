@@ -21,9 +21,9 @@
 
 ### Hi there, I'm Vyshnav 👋
 
-- 🥅 Full stack Web Developer 
-- 🥅 I’m currently learning Backend
-- 🥅 How to reach me <a href="mailto:vrv.VaishnavP@gmail.com">Gmail</a>
+-  Full stack Web Developer 
+-  I’m currently learning Backend
+-  How to reach me <a href="mailto:vrv.VaishnavP@gmail.com">Gmail</a>
 
 ---
 
